@@ -1,3 +1,7 @@
+layout: page
+title: "My postgres image adventure"
+permalink: /posts/my-postgres-image-adventure
+
 ## TL;DR
 
 If you think your postgres container is not behaving as it should, check if there's any ghost running with `lsof` and kill if any
